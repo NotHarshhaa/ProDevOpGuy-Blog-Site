@@ -138,7 +138,7 @@ params:
       linkFullImages: true
       hidden: false # hide everywhere but not in structured data
       hiddenInList: false # hide on list pages and home
-      hiddenInSingle: true # hide on single page
+      hiddenInSingle: false # hide on single page
 
   # fuseOpts:
   #     isCaseSensitive: false
