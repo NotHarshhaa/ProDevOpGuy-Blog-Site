@@ -11,7 +11,12 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
-# googleAnalytics: UA-123-45
+
+# Top left of site
+label:
+  text: "ProDevOpsGuy"
+  icon: /logo_filled_outlined_6.png
+  iconHeight: 35
 
 minify:
   disableXML: true
