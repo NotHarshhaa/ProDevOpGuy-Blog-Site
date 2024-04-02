@@ -12,6 +12,8 @@ cover:
   UseHugoToc: true
 ---
 
+![](https://miro.medium.com/v2/resize:fit:736/1*Ld1z5tAB6SP3Toq64MpExQ.png)
+
 # **Introduction:**
 
 *In the dynamic landscape of software development, architects and developers constantly seek robust design patterns that ensure scalability, maintainability, and efficient resource utilization. One such time-tested approach is the 3-tier architecture, a well-structured model that divides an application into three interconnected layers. This architectural style has been a cornerstone for building scalable and resilient applications for decades.*
