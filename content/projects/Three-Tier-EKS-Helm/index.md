@@ -7,12 +7,10 @@ aliases: ["/Three-Tier-EKS-Helm"]
 tags: ["AWS", "Cloud", "EKS", "Helm"]
 author: ["H A R S H H A A"]
 cover:
-  image: /project1.png
+  image: images/three-tier-aws.png
   hiddenInList: true
   UseHugoToc: true
 ---
-
-![](https://miro.medium.com/v2/resize:fit:736/1*Ld1z5tAB6SP3Toq64MpExQ.png)
 
 # **Introduction:**
 
