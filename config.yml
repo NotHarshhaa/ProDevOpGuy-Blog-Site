@@ -12,12 +12,6 @@ enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
 
-# Top left of site
-label:
-  text: "ProDevOpsGuy"
-  icon: /logo_filled_outlined_6.png
-  iconHeight: 35
-
 minify:
   disableXML: true
   # minifyOutput: true
