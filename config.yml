@@ -13,10 +13,10 @@ pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
 
 # Top left of site
-# label:
-#   text: "ProDevOpsGuy"
-#   icon: /logo_filled_outlined_6.png
-#   iconHeight: 35
+label:
+  text: "ProDevOpsGuy"
+  icon: /logo_filled_outlined_6.png
+  iconHeight: 35
 
 minify:
   disableXML: true
@@ -68,6 +68,10 @@ params:
   # comments: false
   # images: ["images/papermod-cover.png"]
 
+  label:
+    text: "ProDevOpsGuy - Free DevOps/Cloud World"
+    iconSVG: '<svg style="margin-bottom: -0.3em;border-radius: 0;" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="30" height="30"><svg width="30" height="30" viewBox="0 0 99.682 99.682" xmlns="http://www.w3.org/2000/svg"><path d="M0 10.807v78.19h46.972V73.438H15.657V57.731h23.486v-15.61H15.657V26.416h31.315v-15.61zM99.682 10.807v78.19H52.71V73.438h31.315V57.731H60.539v-15.61h23.486V26.416H52.71v-15.61z" fill="currentColor"></path></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } } </style></svg>'
+
   profileMode:
     enabled: false
     title: PaperMod
@@ -81,11 +85,7 @@ params:
       - name: Tags
         url: tags
 
-label:
-    text: "ProDevOpsGuy - Free DevOps/Cloud World"
-    iconSVG: '<svg style="margin-bottom: -0.3em;border-radius: 0;" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="30" height="30"><svg width="30" height="30" viewBox="0 0 99.682 99.682" xmlns="http://www.w3.org/2000/svg"><path d="M0 10.807v78.19h46.972V73.438H15.657V57.731h23.486v-15.61H15.657V26.416h31.315v-15.61zM99.682 10.807v78.19H52.71V73.438h31.315V57.731H60.539v-15.61h23.486V26.416H52.71v-15.61z" fill="currentColor"></path></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } } </style></svg>'
-
-homeInfoParams:
+  homeInfoParams:
     Title: "Pro DevOps Guy"
     Content: >
       👋 Welcome to the page of ProDevOpsGuy!
@@ -101,7 +101,7 @@ homeInfoParams:
 
       - ProDevOpsGuy is maintained & owned by a working DevOps Guy [H A R S H H A A](https://github.com/NotHarshhaa).
 
-socialIcons:
+  socialIcons:
     - name: github
       title: View on Github
       url: "https://github.com/NotHarshhaa"
@@ -133,8 +133,8 @@ socialIcons:
   #     google:
   #         SiteVerificationTag: "XYZabc"
 
-assets:
-  disableHLJS: true
+  assets:
+    disableHLJS: true
   #     favicon: "<link / abs url>"
   #     favicon16x16: "<link / abs url>"
   #     favicon32x32: "<link / abs url>"
