@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts", "papermod"]
+mainsections: ["posts", "projects"]
 
 minify:
   disableXML: true
@@ -28,6 +28,8 @@ languages:
       main:
         - name: Search
           url: search/
+        - name: Projects
+          url: /projects/
         - name: Telegram
           url: https://t.me/prodevopsguy
 
