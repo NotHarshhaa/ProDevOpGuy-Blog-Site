@@ -17,7 +17,7 @@ cover:
 [![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
 
-![](https://miro.medium.com/v2/resize:fit:736/1*O1wPuZ_R1dDBCqGvMLIwkw.gif align="left")
+![](https://miro.medium.com/v2/resize:fit:736/1*O1wPuZ_R1dDBCqGvMLIwkw.gif)
 
 ## **Introduction**
 
@@ -27,7 +27,7 @@ Also, we are adopting a modular approach with enhanced security measures. The in
 
 ## **Directory Overview**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705733395583/e6cbad1b-3cc8-4f6f-8031-2350f84b7892.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705733395583/e6cbad1b-3cc8-4f6f-8031-2350f84b7892.png)
 
 ## **Directory Overview**
 
@@ -149,13 +149,13 @@ Execute the following Terraform commands to plan and deploy the infrastructure:
 terraform plan -var-file=variables.tfvars
 ```
 
-![](https://miro.medium.com/v2/resize:fit:736/0*akgutqcuOytwyeFr align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*akgutqcuOytwyeFr)
 
 ```bash
 terraform apply -var-file=variables.tfvars --auto-approve
 ```
 
-![](https://miro.medium.com/v2/resize:fit:736/0*GwqWrmyNzsdrOfF5 align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*GwqWrmyNzsdrOfF5)
 
 Once the deployment is complete, you can inspect the created services using the provided snippets for each service.
 
@@ -163,107 +163,107 @@ Once the deployment is complete, you can inspect the created services using the 
 
 **VPC**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*bTcoJoGjlg6ama3c align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*bTcoJoGjlg6ama3c)
 
 **Public and Private Subnets**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*2VWNj0x3QI9FcHwm align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*2VWNj0x3QI9FcHwm)
 
 **Public and Private Route tables**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*p9tDNlLzWHy9X4Y2 align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*p9tDNlLzWHy9X4Y2)
 
 **Internet Gateway**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*6ETHLCPnh6ScG03w align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*6ETHLCPnh6ScG03w)
 
 **Elastic IP addresses**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*gR3KFl_WY8e5ddzP align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*gR3KFl_WY8e5ddzP)
 
 **NAT Gateways**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*Ge6MwFoqlok3UBq4 align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*Ge6MwFoqlok3UBq4)
 
 **Security Groups**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*Molv2WHfNmwfRmuJ align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*Molv2WHfNmwfRmuJ)
 
 ## **EC2 & AutoScaling Group**
 
 **Launch template**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*Q2Sd8xEyiah7Djdb align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*Q2Sd8xEyiah7Djdb)
 
 **AutoScaling Group**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*C618R7r4U4-kmX3B align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*C618R7r4U4-kmX3B)
 
 ## **Target Group & Load Balancer**
 
 **Target Group**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*EsEEVf7ApGKkQTFe align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*EsEEVf7ApGKkQTFe)
 
 **Load balancer**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*QTCPt2j7Gd5OpURt align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*QTCPt2j7Gd5OpURt)
 
 ## **Database**
 
 **Subnet Group for RDS**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*rLHsMTvRh_sw4-rm align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*rLHsMTvRh_sw4-rm)
 
 **RDS Cluster**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*jKUP9f-xQhkbRy3M align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*jKUP9f-xQhkbRy3M)
 
 ## **After Core Service, Deploy Service on Server**
 
 **Route53**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*W0-Fvu87ANSGoUj4 align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*W0-Fvu87ANSGoUj4)
 
 **AWS Certificate Manager**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*HdzXL7d29RUWzZ2z align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*HdzXL7d29RUWzZ2z)
 
 **AWS Web Application Firewall**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*N4z4VUhf2th8e36d align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*N4z4VUhf2th8e36d)
 
 **CloudFront**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*AQ3ZkMLau34YUSt2 align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*AQ3ZkMLau34YUSt2)
 
 **IAM Role**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*94hZ3hfPQZ2AsRi2 align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*94hZ3hfPQZ2AsRi2)
 
 **IAM Policy**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*ch9SQWcsk39ILv0J align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*ch9SQWcsk39ILv0J)
 
 **IAM instance profile**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*pRXh28MOhC4rEJcy align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*pRXh28MOhC4rEJcy)
 
 ## **TF State file and State lock**
 
 Backend- TF State file stored on S3
 
-![](https://miro.medium.com/v2/resize:fit:736/0*r5Rl9HOFrpnMdf88 align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*r5Rl9HOFrpnMdf88)
 
 **TF State lock file**
 
-![](https://miro.medium.com/v2/resize:fit:736/0*ylscrtYceyI1Sgna align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*ylscrtYceyI1Sgna)
 
 Once the deployment is completed, you can enter your domain name in the browser to validate whether your servers are perfectly running or not.
 
 As you can see in the below snippet, the Application is running
 
-![](https://miro.medium.com/v2/resize:fit:736/0*yDhfH8HxGO1EK4AW align="left")
+![](https://miro.medium.com/v2/resize:fit:736/0*yDhfH8HxGO1EK4AW)
 
 ## **Clean-up**
 
@@ -275,7 +275,7 @@ Run the following command to initiate the destruction of the infrastructure.
 terraform destroy -var-file=variables.tfvars --auto-approve
 ```
 
-![](https://miro.medium.com/v2/resize:fit:736/1*FiUFrihAMmQz7LO0BNJvfQ.png align="left")
+![](https://miro.medium.com/v2/resize:fit:736/1*FiUFrihAMmQz7LO0BNJvfQ.png)
 
 Delete the Repository (Optional):
 
