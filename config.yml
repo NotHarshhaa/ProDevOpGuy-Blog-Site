@@ -94,10 +94,7 @@ params:
           <h1 style="margin-left: 10px; font-size: 30px;">Pro DevOps Guy</h1>
       </div>
 
-      <h2 style="font-weight: bold;">Welcome to Pro DevOps Guy's Page</h2>
-
-      <p>Pro DevOps Guy is a DevOps/Cloud channel which offers:</p>
-
+      <h3 style="font-weight: bold; Pro DevOps Guy is a DevOps/Cloud channel which offers:</h3>
       <ul>
           <li><em>Daily Trending DevOps Blogs</em></li>
           <li><em>All New Cloud Tips & Techniques</em></li>
