@@ -88,9 +88,13 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Pro DevOps Guy"
     Content: >
-      <img src="https://raw.githubusercontent.com/NotHarshhaa/ProDevOpGuy-Blog-Site/a1578a14b3a8f248abad5f0dfe08aeba736fac75/assets/images/avatar-home.png" alt="Logo" style="height:50px; width:50px; border-radius: 50%;"> 👋 Welcome to the page of ProDevOpsGuy!
+      <div style="display: flex; align-items: center;">
+          <img src="https://raw.githubusercontent.com/NotHarshhaa/ProDevOpGuy-Blog-Site/a1578a14b3a8f248abad5f0dfe08aeba736fac75/assets/images/avatar-home.png" alt="Logo" style="height:65px; width:65px; border-radius: 50%;">
+          <h1 style="margin-left: 10px;">Pro DevOps Guy</h1>
+      </div>
+      
+      👋 Welcome to the page of ProDevOpsGuy!
 
       - **ProDevOpsGuy**  is a DevOps/Cloud channel which gives the best for following things.
          * ***Daily Trending DevOps Blogs***
