@@ -90,6 +90,8 @@ params:
   homeInfoParams:
     Title: "Pro DevOps Guy"
     Content: >
+      ![Logo](images/avatar-home.png){:height="50px" width="50px"}
+
       👋 Welcome to the page of ProDevOpsGuy!
 
       - **ProDevOpsGuy**  is a DevOps/Cloud channel which gives the best for following things.
