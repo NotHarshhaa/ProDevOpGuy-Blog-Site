@@ -88,7 +88,7 @@ params:
         url: tags
 
   homeInfoParams:
-    Content: |-
+    Content: >
       <div style="display: flex; align-items: center;">
           <img src="https://raw.githubusercontent.com/NotHarshhaa/ProDevOpGuy-Blog-Site/a1578a14b3a8f248abad5f0dfe08aeba736fac75/assets/images/avatar-home.png" alt="Logo" style="height:65px; width:65px; border-radius: 50%;">
           <h1 style="margin-left: 10px; font-size: 30px;">Pro DevOps Guy</h1>
