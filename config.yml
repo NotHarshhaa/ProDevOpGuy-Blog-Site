@@ -90,7 +90,7 @@ params:
   homeInfoParams:
     Title: "Pro DevOps Guy"
     Content: >
-      ![Logo](images/avatar-home.png){:height="50px" width="50px"}
+      ![Logo](https://github.com/NotHarshhaa/ProDevOpGuy-Blog-Site/blob/a1578a14b3a8f248abad5f0dfe08aeba736fac75/assets/images/avatar-home.png){:height="65px" width="65px"}
 
       👋 Welcome to the page of ProDevOpsGuy!
 
