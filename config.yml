@@ -91,7 +91,7 @@ params:
     Content: |
       <div style="display: flex; align-items: center;">
           <img src="https://raw.githubusercontent.com/NotHarshhaa/ProDevOpGuy-Blog-Site/a1578a14b3a8f248abad5f0dfe08aeba736fac75/assets/images/avatar-home.png" alt="Logo" style="height:65px; width:65px; border-radius: 50%;">
-          <h1 style="margin-left: 10px; font-size: 30px;">Pro DevOps Guy</h1>
+          <h1 style="margin-left: 10px; font-size: 30px; margin-bottom: 20px;">Pro DevOps Guy</h1>
       </div>
 
       <h3 style="font-weight: bold;">Pro DevOps Guy is a DevOps/Cloud channel which offers:</h3>
@@ -103,9 +103,9 @@ params:
           <li><em>Cloud/DevOps Related Code & Scripts</em></li>
       </ul>
 
-      <p>Feel free to show your support by sharing with your friends and on social media.</p>
+      <h4 style="margin-top: 20px;">Feel free to show your support by sharing with your friends and on social media.</h4>
 
-      <p>Pro DevOps Guy is maintained & owned by a working DevOps Guy <a href="https://github.com/NotHarshhaa">H A R S H H A A</a>.</p>
+      <h4>Pro DevOps Guy is maintained & owned by a working DevOps Guy <a href="https://github.com/NotHarshhaa">H A R S H H A A</a>.</h4>
 
   socialIcons:
     - name: github
