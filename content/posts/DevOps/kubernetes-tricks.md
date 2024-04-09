@@ -5,7 +5,7 @@ description: "💫 Most usefull Kubernetes tricks that are helpful! for any DevO
 date: "2024-04-09"
 template: "post"
 draft: false
-slug: "DevOps"
+slug: "Usefull-Kubernetes-Tricks"
 series:
   - "DevOps"
 tags:
