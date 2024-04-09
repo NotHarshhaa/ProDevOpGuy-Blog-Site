@@ -91,7 +91,7 @@ params:
     Content: |
       <div style="display: flex; align-items: center;">
           <img src="https://raw.githubusercontent.com/NotHarshhaa/ProDevOpGuy-Blog-Site/cc1d279576d4d3e65ba86f9a40d56490736ed93f/assets/images/avatar-home.png" alt="Logo" style="height:65px; width:65px; border-radius: 50%;">
-          <img src="https://raw.githubusercontent.com/NotHarshhaa/ProDevOpGuy-Blog-Site/8934a074ba9442797805d9e1f304eeddc458d19d/assets/images/logo-home.svg" alt="Light Mode Logo" style="height:82px; width:363px;">
+          <img src="https://raw.githubusercontent.com/NotHarshhaa/ProDevOpGuy-Blog-Site/8934a074ba9442797805d9e1f304eeddc458d19d/assets/images/logo-home.svg" alt="Light Mode Logo" style="height:68px; width:250px;">
       </div>
 
       <h3 style="font-weight: bold; margin-bottom: 20px;"> 💥 ProDevOpsGuy is a DevOps/Cloud channel which offers: 📢</h3>
