@@ -1,31 +1,17 @@
 ---
-author: "H A R S H H A A"
-title: ☸️ Usefull Kubernetes tricks for DevOps Engineer 🎩🪄
-description: "💫 Most usefull Kubernetes tricks that are helpful! for any DevOps Engineer 💫"
-date: "2024-04-09"
-draft: false
-aliases: ["/kubernetes-tricks"]
+title: "☸️ Usefull Kubernetes tricks for DevOps Engineer 🎩🪄"
+summary: 💫 Most usefull Kubernetes tricks that are helpful! for any DevOps Engineer 💫
+date: 2024-04-09
 series: ["DevOps"]
+weight: 1
+aliases: ["/kubernetes-tricks"]
 tags: ["DevOps", "Kubernetes", "Tips&Tricks"]
-hidemeta: false
-comments: false
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+author: ["H A R S H H A A"]
 cover:
-    image: "images/kubernetes-tricks.png" # image path/url
-    relative: true # when using page bundles set this to true
-    hidden: false # only hide on current single page
+  image: images/kubernetes-tricks.png
+  hiddenInList: true
+  UseHugoToc: true
 ---
-
-## 💫 Most usefull Kubernetes tricks that are helpful! for any DevOps Engineer 💫
 
 ### ➡️𝗚𝗲𝘁𝘁𝗶𝗻𝗴 𝗦𝘁𝗮𝗿𝘁𝗲𝗱
 
