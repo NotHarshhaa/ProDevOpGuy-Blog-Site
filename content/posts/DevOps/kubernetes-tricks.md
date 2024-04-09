@@ -3,15 +3,10 @@ author: "H A R S H H A A"
 title: ☸️ Usefull Kubernetes tricks for DevOps Engineer 🎩🪄
 description: "💫 Most usefull Kubernetes tricks that are helpful! for any DevOps Engineer 💫"
 date: "2024-04-09"
-template: "post"
 draft: false
-slug: "Usefull-Kubernetes-Tricks"
-series:
-  - "DevOps"
-tags:
-  - "DevOps"
-  - "Kubernetes"
-  - "Tips&Tricks"
+aliases: ["/kubernetes-tricks"]
+series: ["DevOps"]
+tags: ["DevOps", "Kubernetes", "Tips&Tricks"]
 hidemeta: false
 comments: false
 disableShare: false
